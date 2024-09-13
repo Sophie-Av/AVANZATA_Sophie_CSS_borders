@@ -1,0 +1,31 @@
+.exo1 {
+    height: 50px;
+    width: 50px;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 20px 0px 20px;
+    border: thick solid rgb(255, 0, 0);
+}
+.exo2 {
+    height: 50px;
+    width: 50px;
+    margin: 50px 30px 40px;
+    margin-bottom: 20px;
+    border: double blue;
+}
+.exo3 {
+    height: 50px;
+    width: 50px;
+    padding: 5px 20px 30px;
+    margin: 50px 40px;
+    border: dashed red;
+}
+.exo4 {
+    height: 50px;
+    width: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid;
+}
